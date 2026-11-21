@@ -45,5 +45,3 @@ Target Audience: Farmers/FPOs get better margins and demand insights; consumers/
 Bullet Benefits: Economic (higher farmer pay, lower buyer cost); Social (price transparency, less middleman reliance); Environmental (shorter routes cut fuel/emissions and less food spoilage).
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
